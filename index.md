@@ -5,3 +5,7 @@
 ```
 print("Hello World!")
 ```
+
+- [x] Be amazing
+- [ ] Play
+- [ ] Sleep
